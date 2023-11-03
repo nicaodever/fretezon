@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "FreteZon",
+    "slug": "FreteZon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/caminhao.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#21CA83"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.nicolaspppp.FreteZon"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
